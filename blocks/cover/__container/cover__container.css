@@ -2,9 +2,9 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-content: center;
     background-image: url("../../../images/cover-trains.jpg");
     min-height: 740px;
+    width: 100%;
     background-size: cover;
     position: relative;
     color: #FFFFFF;
@@ -29,13 +29,13 @@
 }
 
 @media screen and (max-width: 1279px) {
-    .cover__background {
+    .cover__container {
         min-height: 640px;
     }
 }
 
 @media screen and (max-width: 1023px) {
-    .cover__background {
+    .cover__container {
         min-height: 480px;
     }
 }

@@ -3,6 +3,7 @@
     margin: 0;
     align-self: end;
     list-style: none;
+    text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 1023px){

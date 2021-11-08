@@ -4,6 +4,7 @@
     line-height: 1.22;
     color: #FFFFFF;
     transition: opacity 0.3s ease-out;
+    text-rendering: optimizeLegibility;
 }
 
 .place__link:hover{

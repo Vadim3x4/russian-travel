@@ -2,6 +2,7 @@
     margin: 0;
     font-size: 18px;
     line-height: 1.63;
+    text-rendering: optimizeLegibility;
 }
 
 .place__paragraph:nth-child(2){
