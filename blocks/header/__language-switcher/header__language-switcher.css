@@ -3,3 +3,7 @@
     margin: 0 18px 0 0;
     list-style: none;
 }
+
+.header__language-switcher:last-child{
+    margin: 0;
+}

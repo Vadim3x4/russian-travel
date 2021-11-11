@@ -1,6 +1,5 @@
 .footer__links{
     margin: 0;
-    width: calc(100% - 2 * 48px);
     display: flex;
     list-style: none;
     padding: 0;

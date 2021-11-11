@@ -12,6 +12,14 @@
     margin-bottom: 0;
 }
 
+@media screen and (max-width: 1023px){
+    .place{
+        column-gap: 28px;
+        row-gap: 48px;
+    }
+
+}
+
 @media screen and (max-width: 767px){
     .place{
         grid-template-columns: minmax(min-content, max-content);

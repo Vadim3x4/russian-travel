@@ -3,7 +3,7 @@
     display: flex;
     width: calc(100% - 2 * 48px);
     justify-content: space-between;
-    align-items: end;
+    align-items: center;
 }
 
 @media screen and (max-width: 1023px) {
@@ -16,8 +16,5 @@
     .header{
         width: calc(100% - 2 * 16px);
         margin: 16px auto 0;
-    }
-    .header__logo{
-        max-width: 142px;
     }
 }
